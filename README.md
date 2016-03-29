@@ -1,0 +1,2 @@
+# beancopytest
+test
